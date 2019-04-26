@@ -8,14 +8,14 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>ChatPannel</groupId>
-      <artifactId>chatpannel</artifactId>
-      <version>unspecified</version>
+      <groupId>com.albertech.common</groupId>
+      <artifactId>common</artifactId>
+      <version>0.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.albertech.common</groupId>
-      <artifactId>common</artifactId>
+      <groupId>com.albertech.chatpannel</groupId>
+      <artifactId>chatpannel</artifactId>
       <version>0.0.1</version>
       <scope>compile</scope>
     </dependency>
